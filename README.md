@@ -1,3 +1,19 @@
+## Forked Repository
+
+This is a forked repository from [https://github.com/alexander171294/cordova-plugin-fcm](https://github.com/alexander171294/cordova-plugin-fcm).
+
+The purpose of this forked repository is to maintain the continuity of this plugin for my project.
+
+### Changes
+
+* Made the firebase-core and firebase-messaging version fixed and don't get the latest release.
+
+---
+
+Below contains the original content of README.md file from the main author of the plugin.
+
+---
+
 # Google Firebase Cloud Messaging Cordova Push Plugin
 > Extremely easy plug&play push notification plugin for Cordova applications with Google Firebase FCM.
 
